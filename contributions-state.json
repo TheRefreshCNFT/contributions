@@ -1,0 +1,58 @@
+{
+  "items": {
+    "nullclaw/nullclaw#317": {
+      "key": "nullclaw/nullclaw#317",
+      "repo": "nullclaw/nullclaw",
+      "number": 317,
+      "type": "issue",
+      "title": "WebSocket gateway fails on Windows: posix.read() uses NtReadFile instead of ws2_32.recv",
+      "url": "https://github.com/nullclaw/nullclaw/issues/317",
+      "created_at": "2026-03-05T00:00:00Z",
+      "outcome": "accepted",
+      "status": "Fixed → PR #550",
+      "fixing_pr": {
+        "number": 550,
+        "title": "fix(web): restore local WebChannel on Windows and vendor dependencies",
+        "url": "https://github.com/nullclaw/nullclaw/pull/550"
+      },
+      "merged_at": "2026-03-16T01:22:00Z",
+      "merged_by": null,
+      "release": "v2026.3.15"
+    },
+    "nullclaw/nullclaw#337": {
+      "key": "nullclaw/nullclaw#337",
+      "repo": "nullclaw/nullclaw",
+      "number": 337,
+      "type": "issue",
+      "title": "Discord: reply-to-bot messages ignored when require_mention is true",
+      "url": "https://github.com/nullclaw/nullclaw/issues/337",
+      "created_at": "2026-03-06T00:00:00Z",
+      "outcome": "accepted",
+      "status": "Fixed → PR #382",
+      "fixing_pr": {
+        "number": 382,
+        "title": "fix(discord): accept replies to bot when require_mention is enabled",
+        "url": "https://github.com/nullclaw/nullclaw/pull/382"
+      },
+      "merged_at": "2026-03-10T01:15:21Z",
+      "merged_by": null,
+      "release": "v2026.3.10"
+    },
+    "nullclaw/nullclaw#460": {
+      "key": "nullclaw/nullclaw#460",
+      "repo": "nullclaw/nullclaw",
+      "number": 460,
+      "type": "pr",
+      "title": "feat(discord): sender identity in ConversationContext + reply detection",
+      "url": "https://github.com/nullclaw/nullclaw/pull/460",
+      "created_at": "2026-03-12T00:00:00Z",
+      "outcome": "accepted",
+      "status": "Merged by @DonPrus",
+      "fixing_pr": null,
+      "merged_at": "2026-03-13T00:17:51Z",
+      "merged_by": "DonPrus",
+      "release": "v2026.3.12"
+    }
+  },
+  "last_run": "2026-03-17T21:11:39.270Z"
+}
